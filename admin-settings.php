@@ -35,6 +35,6 @@ function wc_catalog_mode_settings_page_html() {
             <br><br>
             <input type="submit" name="wc_catalog_mode_submit" class="button-primary" value="Guardar cambios">
         </form>
-    </div>
-    <?php
+    </div>    
+   <?php
 }
